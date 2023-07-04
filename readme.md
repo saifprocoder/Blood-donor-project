@@ -22,8 +22,9 @@
 
 # Features:
 
-- [x] User Login and Registrations.
-- [x] Show User profile after login.
+- [x] Donor Registrations without signup.
+- [ ] can search donor easily
+      
 - [x] About Blood.
 - [x] Search blood donner in normally.
 - [x] Normally Search blood donner.
