@@ -22,12 +22,10 @@
 
 # Features:
 
-- [x] Donor Registrations without signup.
-- [ ] can search donor easily
-      
+- [x] Donor Registrations without signup.     
 - [x] About Blood.
 - [x] Search blood donner in normally.
 - [x] Normally Search blood donner.
 - [x] Search blood donner using map.
 - [x] Find blood donner in easy way and in a short time.
-- [x] Do post request for blood in our blood community.
+
